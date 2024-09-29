@@ -85,7 +85,10 @@
 ``DELETE FROM goal_reached;`` // En halua ajaa tätä omassa tietokannassa koska tarvitsen tietoja myöhemmin projektissa
 
 4.
-``DELETE FROM game;`` 
+``DELETE FROM game;``
+
+
+#- Minulla jäi pari osiota kesken/tekemättä koska tuli kiire 
 
 
 
